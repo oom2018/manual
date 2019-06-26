@@ -1,3 +1,6 @@
+# manual
+
+```
 replace golang.org/x/text => github.com/golang/text latest
 replace golang.org/x/net => github.com/golang/net latest
 replace golang.org/x/crypto => github.com/golang/crypto latest
@@ -15,3 +18,4 @@ replace google.golang.org/api => github.com/googleapis/google-api-go-client late
 replace google.golang.org/appengine => github.com/golang/appengine latest
 replace golang.org/x/mobile => github.com/golang/mobile latest
 replace golang.org/x/image => github.com/golang/image latest
+```

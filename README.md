@@ -1,5 +1,9 @@
 # manual
 
+## 安装go1.12
+https://tecadmin.net/install-go-on-ubuntu/
+
+## 替换被墙的包
 ```
 replace golang.org/x/text => github.com/golang/text latest
 replace golang.org/x/net => github.com/golang/net latest
